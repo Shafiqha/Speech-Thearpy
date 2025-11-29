@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "soundFile": "C:\\Users\\Shafiqha\\Desktop\\aphi\\aphi\\aphi\\backup\\backend\\api\\media\\lip_audio\\willow_en_a9d1f945.wav",
+    "duration": 0.81
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.09, "value": "X" },
+    { "start": 0.09, "end": 0.21, "value": "G" },
+    { "start": 0.21, "end": 0.35, "value": "B" },
+    { "start": 0.35, "end": 0.49, "value": "E" },
+    { "start": 0.49, "end": 0.56, "value": "F" },
+    { "start": 0.56, "end": 0.81, "value": "X" }
+  ]
+}

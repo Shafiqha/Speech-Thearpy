@@ -1,0 +1,13 @@
+{
+  "metadata": {
+    "soundFile": "C:\\Users\\Shafiqha\\Desktop\\aphi\\aphi\\backup\\backend\\api\\media\\lip_audio\\Gross_en_0ae6fc11.wav",
+    "duration": 1.05
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.05, "value": "X" },
+    { "start": 0.05, "end": 0.25, "value": "F" },
+    { "start": 0.25, "end": 0.46, "value": "E" },
+    { "start": 0.46, "end": 0.88, "value": "F" },
+    { "start": 0.88, "end": 1.05, "value": "X" }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "metadata": {
+    "soundFile": "C:\\Users\\Shafiqha\\Desktop\\aphi\\aphi\\backup\\backend\\api\\media\\lip_audio\\fit_en_867deba5.wav",
+    "duration": 0.79
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.10, "value": "X" },
+    { "start": 0.10, "end": 0.25, "value": "G" },
+    { "start": 0.25, "end": 0.60, "value": "B" },
+    { "start": 0.60, "end": 0.79, "value": "X" }
+  ]
+}

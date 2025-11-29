@@ -1,0 +1,13 @@
+{
+  "metadata": {
+    "soundFile": "C:\\Users\\Shafiqha\\Desktop\\aphi\\aphi\\backup\\backend\\api\\media\\lip_audio\\forgive_en_2d82e11d.wav",
+    "duration": 0.91
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.11, "value": "X" },
+    { "start": 0.11, "end": 0.20, "value": "G" },
+    { "start": 0.20, "end": 0.55, "value": "B" },
+    { "start": 0.55, "end": 0.69, "value": "G" },
+    { "start": 0.69, "end": 0.91, "value": "X" }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "metadata": {
+    "soundFile": "C:\\Users\\Shafiqha\\Desktop\\aphi\\aphi\\backup\\backend\\api\\media\\lip_audio\\Go there quickly_en_255f2072.wav",
+    "duration": 1.46
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.05, "value": "X" },
+    { "start": 0.05, "end": 0.10, "value": "B" },
+    { "start": 0.10, "end": 0.28, "value": "E" },
+    { "start": 0.28, "end": 0.36, "value": "A" },
+    { "start": 0.36, "end": 0.59, "value": "C" },
+    { "start": 0.59, "end": 1.29, "value": "B" },
+    { "start": 1.29, "end": 1.46, "value": "X" }
+  ]
+}

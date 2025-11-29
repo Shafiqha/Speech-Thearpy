@@ -1,0 +1,31 @@
+{
+  "patient_id": "patient_1760071085",
+  "language": "kn",
+  "start_time": "2025-10-10 10:08:05",
+  "current_sentence_index": 0,
+  "current_difficulty": "easy",
+  "total_attempts": 1,
+  "correct_attempts": 0,
+  "average_severity": 0.0,
+  "session_sentences": [
+    {
+      "sentence": "ಕೆಟ್ಟದು",
+      "target": "ಕೆಟ್ಟದು",
+      "spoken": "get te",
+      "accuracy": "needs_work",
+      "similarity": 0.0,
+      "severity": "Mild",
+      "wab_aq_score": -0.020140966400504112,
+      "detailed_errors": [
+        "Substitution: 'ಕಟಟದ' → 'get'",
+        "Vowel pronunciation error"
+      ],
+      "practice_suggestions": [
+        "Practice slowly and clearly",
+        "Break the word into smaller parts",
+        "Listen to the model pronunciation carefully"
+      ],
+      "timestamp": "10:09:18"
+    }
+  ]
+}

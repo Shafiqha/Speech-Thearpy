@@ -1,0 +1,50 @@
+{
+  "patient_id": "patient_1760070947",
+  "language": "hi",
+  "start_time": "2025-10-10 10:05:47",
+  "current_sentence_index": 0,
+  "current_difficulty": "easy",
+  "total_attempts": 2,
+  "correct_attempts": 0,
+  "average_severity": 0.0,
+  "session_sentences": [
+    {
+      "sentence": "घर",
+      "target": "घर",
+      "spoken": "ah glern",
+      "accuracy": "needs_work",
+      "similarity": 0.0,
+      "severity": "Mild",
+      "wab_aq_score": -0.0293278768658638,
+      "detailed_errors": [
+        "Substitution: 'घर' → 'ah'",
+        "Vowel pronunciation error"
+      ],
+      "practice_suggestions": [
+        "Practice slowly and clearly",
+        "Break the word into smaller parts",
+        "Listen to the model pronunciation carefully"
+      ],
+      "timestamp": "10:06:49"
+    },
+    {
+      "sentence": "खाना",
+      "target": "खाना",
+      "spoken": "नहीं",
+      "accuracy": "fair",
+      "similarity": 0.5,
+      "severity": "Mild",
+      "wab_aq_score": -0.0293118879199028,
+      "detailed_errors": [
+        "Missing sound: 'ख'",
+        "Extra sound: 'ह'"
+      ],
+      "practice_suggestions": [
+        "Practice slowly and clearly",
+        "Break the word into smaller parts",
+        "Listen to the model pronunciation carefully"
+      ],
+      "timestamp": "10:07:32"
+    }
+  ]
+}

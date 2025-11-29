@@ -1,0 +1,15 @@
+{
+  "metadata": {
+    "soundFile": "C:\\Users\\Shafiqha\\Desktop\\aphi\\aphi\\backup\\backend\\api\\media\\lip_audio\\lamb_en_ce126115.wav",
+    "duration": 0.93
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.16, "value": "X" },
+    { "start": 0.16, "end": 0.22, "value": "B" },
+    { "start": 0.22, "end": 0.34, "value": "C" },
+    { "start": 0.34, "end": 0.41, "value": "B" },
+    { "start": 0.41, "end": 0.48, "value": "C" },
+    { "start": 0.48, "end": 0.72, "value": "A" },
+    { "start": 0.72, "end": 0.93, "value": "X" }
+  ]
+}

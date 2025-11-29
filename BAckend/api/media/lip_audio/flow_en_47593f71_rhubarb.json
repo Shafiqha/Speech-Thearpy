@@ -1,0 +1,12 @@
+{
+  "metadata": {
+    "soundFile": "C:\\Users\\Shafiqha\\Desktop\\backup\\backup\\backend\\api\\media\\lip_audio\\flow_en_47593f71.wav",
+    "duration": 0.84
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.10, "value": "X" },
+    { "start": 0.10, "end": 0.26, "value": "G" },
+    { "start": 0.26, "end": 0.61, "value": "F" },
+    { "start": 0.61, "end": 0.84, "value": "X" }
+  ]
+}

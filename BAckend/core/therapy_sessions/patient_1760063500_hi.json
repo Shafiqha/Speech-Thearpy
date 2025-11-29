@@ -1,0 +1,31 @@
+{
+  "patient_id": "patient_1760063500",
+  "language": "hi",
+  "start_time": "2025-10-10 08:01:40",
+  "current_sentence_index": 0,
+  "current_difficulty": "easy",
+  "total_attempts": 1,
+  "correct_attempts": 0,
+  "average_severity": 0.0,
+  "session_sentences": [
+    {
+      "sentence": "बुरा",
+      "target": "बुरा",
+      "spoken": "boura",
+      "accuracy": "needs_work",
+      "similarity": 0.0,
+      "severity": "Unknown",
+      "wab_aq_score": 50,
+      "detailed_errors": [
+        "Substitution: 'बर' → 'boura'",
+        "Vowel pronunciation error"
+      ],
+      "practice_suggestions": [
+        "Practice slowly and clearly",
+        "Break the word into smaller parts",
+        "Listen to the model pronunciation carefully"
+      ],
+      "timestamp": "08:02:38"
+    }
+  ]
+}

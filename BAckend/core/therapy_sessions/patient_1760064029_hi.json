@@ -1,0 +1,132 @@
+{
+  "patient_id": "patient_1760064029",
+  "language": "hi",
+  "start_time": "2025-10-10 08:10:29",
+  "current_sentence_index": 0,
+  "current_difficulty": "easy",
+  "total_attempts": 7,
+  "correct_attempts": 4,
+  "average_severity": 0.0,
+  "session_sentences": [
+    {
+      "sentence": "हाँ",
+      "target": "हाँ",
+      "spoken": "ha",
+      "accuracy": "needs_work",
+      "similarity": 0.0,
+      "severity": "Very Severe",
+      "wab_aq_score": 0.01123117282986641,
+      "detailed_errors": [
+        "Substitution: 'ह' → 'ha'",
+        "Vowel pronunciation error"
+      ],
+      "practice_suggestions": [
+        "Practice slowly and clearly",
+        "Break the word into smaller parts",
+        "Listen to the model pronunciation carefully"
+      ],
+      "timestamp": "08:11:25"
+    },
+    {
+      "sentence": "घर",
+      "target": "घर",
+      "spoken": "घर",
+      "accuracy": "excellent",
+      "similarity": 1.0,
+      "severity": "Very Severe",
+      "wab_aq_score": 0.011225588619709015,
+      "detailed_errors": [],
+      "practice_suggestions": [
+        "Excellent pronunciation!",
+        "Try practicing with longer words",
+        "Keep up the good work!"
+      ],
+      "timestamp": "08:11:47"
+    },
+    {
+      "sentence": "अच्छा",
+      "target": "अच्छा",
+      "spoken": "अच्छा",
+      "accuracy": "excellent",
+      "similarity": 1.0,
+      "severity": "Very Severe",
+      "wab_aq_score": 0.011225622147321701,
+      "detailed_errors": [],
+      "practice_suggestions": [
+        "Excellent pronunciation!",
+        "Try practicing with longer words",
+        "Keep up the good work!"
+      ],
+      "timestamp": "08:12:08"
+    },
+    {
+      "sentence": "मदद",
+      "target": "मदद",
+      "spoken": "मदद",
+      "accuracy": "excellent",
+      "similarity": 1.0,
+      "severity": "Very Severe",
+      "wab_aq_score": 0.01122371107339859,
+      "detailed_errors": [],
+      "practice_suggestions": [
+        "Excellent pronunciation!",
+        "Try practicing with longer words",
+        "Keep up the good work!"
+      ],
+      "timestamp": "08:12:33"
+    },
+    {
+      "sentence": "धन्यवाद",
+      "target": "धन्यवाद",
+      "spoken": "denuwat",
+      "accuracy": "needs_work",
+      "similarity": 0.0,
+      "severity": "Very Severe",
+      "wab_aq_score": 0.011224478483200073,
+      "detailed_errors": [
+        "Substitution: 'धनयवद' → 'denuwat'",
+        "Vowel pronunciation error"
+      ],
+      "practice_suggestions": [
+        "Practice slowly and clearly",
+        "Break the word into smaller parts",
+        "Listen to the model pronunciation carefully"
+      ],
+      "timestamp": "08:13:17"
+    },
+    {
+      "sentence": "खाना",
+      "target": "खाना",
+      "spoken": "हाँ",
+      "accuracy": "needs_work",
+      "similarity": 0.0,
+      "severity": "Very Severe",
+      "wab_aq_score": 0.011223390698432922,
+      "detailed_errors": [
+        "Substitution: 'खन' → 'ह'"
+      ],
+      "practice_suggestions": [
+        "Practice slowly and clearly",
+        "Break the word into smaller parts",
+        "Listen to the model pronunciation carefully"
+      ],
+      "timestamp": "08:13:56"
+    },
+    {
+      "sentence": "घर",
+      "target": "घर",
+      "spoken": "घर",
+      "accuracy": "excellent",
+      "similarity": 1.0,
+      "severity": "Very Severe",
+      "wab_aq_score": 0.01123136281967163,
+      "detailed_errors": [],
+      "practice_suggestions": [
+        "Excellent pronunciation!",
+        "Try practicing with longer words",
+        "Keep up the good work!"
+      ],
+      "timestamp": "08:58:09"
+    }
+  ]
+}

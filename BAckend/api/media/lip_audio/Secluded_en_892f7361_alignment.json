@@ -1,0 +1,13 @@
+{
+  "metadata": {
+    "soundFile": "C:\\Users\\Shafiqha\\Desktop\\aphi\\aphi\\aphi\\backup\\BAckend\\api\\media\\lip_audio\\Secluded_en_892f7361.wav",
+    "duration": 1.20
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.09, "value": "X" },
+    { "start": 0.09, "end": 0.22, "value": "B" },
+    { "start": 0.22, "end": 0.29, "value": "C" },
+    { "start": 0.29, "end": 0.99, "value": "B" },
+    { "start": 0.99, "end": 1.20, "value": "X" }
+  ]
+}

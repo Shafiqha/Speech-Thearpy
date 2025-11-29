@@ -1,0 +1,11 @@
+{
+  "metadata": {
+    "soundFile": "C:\\Users\\Shafiqha\\Desktop\\aphi\\backup\\backend\\api\\media\\lip_audio\\\u0cac\u0cc6\u0c95\u0ccd\u0c95\u0cc1_kn_d60d7b5d.wav",
+    "duration": 1.00
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.03, "value": "X" },
+    { "start": 0.03, "end": 0.95, "value": "C" },
+    { "start": 0.95, "end": 1.00, "value": "X" }
+  ]
+}

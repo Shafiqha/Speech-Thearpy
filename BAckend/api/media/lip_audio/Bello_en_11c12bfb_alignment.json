@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "soundFile": "C:\\Users\\Shafiqha\\Desktop\\aphi\\aphi\\backup\\backend\\api\\media\\lip_audio\\Bello_en_11c12bfb.wav",
+    "duration": 0.86
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.09, "value": "X" },
+    { "start": 0.09, "end": 0.17, "value": "G" },
+    { "start": 0.17, "end": 0.38, "value": "B" },
+    { "start": 0.38, "end": 0.52, "value": "E" },
+    { "start": 0.52, "end": 0.59, "value": "F" },
+    { "start": 0.59, "end": 0.86, "value": "X" }
+  ]
+}

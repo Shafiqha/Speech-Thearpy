@@ -1,0 +1,12 @@
+{
+  "metadata": {
+    "soundFile": "C:\\Users\\Shafiqha\\Desktop\\aphi\\aphi\\backup\\backend\\api\\media\\lip_audio\\sit_en_021c7282.wav",
+    "duration": 0.84
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.11, "value": "X" },
+    { "start": 0.11, "end": 0.29, "value": "G" },
+    { "start": 0.29, "end": 0.64, "value": "B" },
+    { "start": 0.64, "end": 0.84, "value": "X" }
+  ]
+}

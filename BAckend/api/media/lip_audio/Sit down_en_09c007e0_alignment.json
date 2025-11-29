@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "soundFile": "C:\\Users\\Shafiqha\\Desktop\\aphi\\aphi\\backup\\backend\\api\\media\\lip_audio\\Sit down_en_09c007e0.wav",
+    "duration": 1.17
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.07, "value": "X" },
+    { "start": 0.07, "end": 0.43, "value": "B" },
+    { "start": 0.43, "end": 0.71, "value": "C" },
+    { "start": 0.71, "end": 0.78, "value": "E" },
+    { "start": 0.78, "end": 1.00, "value": "A" },
+    { "start": 1.00, "end": 1.17, "value": "X" }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "metadata": {
+    "soundFile": "C:\\Users\\Shafiqha\\Desktop\\aphi\\aphi\\backup\\backend\\api\\media\\lip_audio\\\u0cb8\u0cc7\u0cac\u0cc1 \u0cac\u0cc7\u0c95\u0cc1_kn_3f2a7308.wav",
+    "duration": 1.60
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.10, "value": "X" },
+    { "start": 0.10, "end": 0.56, "value": "B" },
+    { "start": 0.56, "end": 0.63, "value": "E" },
+    { "start": 0.63, "end": 0.70, "value": "F" },
+    { "start": 0.70, "end": 0.78, "value": "A" },
+    { "start": 0.78, "end": 0.97, "value": "B" },
+    { "start": 0.97, "end": 1.39, "value": "F" },
+    { "start": 1.39, "end": 1.60, "value": "X" }
+  ]
+}

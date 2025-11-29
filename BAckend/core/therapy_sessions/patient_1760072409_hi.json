@@ -1,0 +1,31 @@
+{
+  "patient_id": "patient_1760072409",
+  "language": "hi",
+  "start_time": "2025-10-10 10:30:09",
+  "current_sentence_index": 0,
+  "current_difficulty": "easy",
+  "total_attempts": 1,
+  "correct_attempts": 0,
+  "average_severity": 0.0,
+  "session_sentences": [
+    {
+      "sentence": "अच्छा",
+      "target": "अच्छा",
+      "spoken": "a tell",
+      "accuracy": "needs_work",
+      "similarity": 0.0,
+      "severity": "Very Severe",
+      "wab_aq_score": 0.0,
+      "detailed_errors": [
+        "Substitution: 'अचछ' → 'a'",
+        "Vowel pronunciation error"
+      ],
+      "practice_suggestions": [
+        "Practice slowly and clearly",
+        "Break the word into smaller parts",
+        "Listen to the model pronunciation carefully"
+      ],
+      "timestamp": "10:31:15"
+    }
+  ]
+}

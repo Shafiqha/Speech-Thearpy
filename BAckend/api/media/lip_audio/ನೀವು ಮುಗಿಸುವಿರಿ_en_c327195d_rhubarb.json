@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "soundFile": "C:\\Users\\Shafiqha\\Desktop\\backup\\backup\\BAckend\\api\\media\\lip_audio\\\u0ca8\u0cc0\u0cb5\u0cc1 \u0cae\u0cc1\u0c97\u0cbf\u0cb8\u0cc1\u0cb5\u0cbf\u0cb0\u0cbf_en_c327195d.wav",
+    "duration": 1.58
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.09, "value": "X" },
+    { "start": 0.09, "end": 0.22, "value": "B" },
+    { "start": 0.22, "end": 0.36, "value": "E" },
+    { "start": 0.36, "end": 0.43, "value": "F" },
+    { "start": 0.43, "end": 0.51, "value": "A" },
+    { "start": 0.51, "end": 0.56, "value": "F" },
+    { "start": 0.56, "end": 0.61, "value": "E" },
+    { "start": 0.61, "end": 0.96, "value": "B" },
+    { "start": 0.96, "end": 1.03, "value": "H" },
+    { "start": 1.03, "end": 1.38, "value": "C" },
+    { "start": 1.38, "end": 1.58, "value": "X" }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "soundFile": "C:\\Users\\Shafiqha\\Desktop\\aphi\\aphi\\backup\\backend\\api\\media\\lip_audio\\my name is gandhi_en_55762545.wav",
+    "duration": 1.65
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.01, "value": "X" },
+    { "start": 0.01, "end": 0.09, "value": "B" },
+    { "start": 0.09, "end": 0.19, "value": "A" },
+    { "start": 0.19, "end": 0.26, "value": "C" },
+    { "start": 0.26, "end": 0.53, "value": "B" },
+    { "start": 0.53, "end": 0.63, "value": "A" },
+    { "start": 0.63, "end": 0.75, "value": "B" },
+    { "start": 0.75, "end": 0.82, "value": "C" },
+    { "start": 0.82, "end": 1.01, "value": "D" },
+    { "start": 1.01, "end": 1.06, "value": "C" },
+    { "start": 1.06, "end": 1.45, "value": "B" },
+    { "start": 1.45, "end": 1.65, "value": "X" }
+  ]
+}

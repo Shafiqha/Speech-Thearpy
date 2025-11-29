@@ -1,0 +1,12 @@
+{
+  "metadata": {
+    "soundFile": "C:\\Users\\Shafiqha\\Desktop\\backup\\backup\\backend\\api\\media\\lip_audio\\ola_en_8bd2ac0f.wav",
+    "duration": 0.79
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.09, "value": "X" },
+    { "start": 0.09, "end": 0.25, "value": "B" },
+    { "start": 0.25, "end": 0.53, "value": "C" },
+    { "start": 0.53, "end": 0.79, "value": "X" }
+  ]
+}

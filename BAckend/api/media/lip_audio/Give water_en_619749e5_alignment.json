@@ -1,0 +1,16 @@
+{
+  "metadata": {
+    "soundFile": "C:\\Users\\Shafiqha\\Desktop\\aphi\\aphi\\backup\\backend\\api\\media\\lip_audio\\Give water_en_619749e5.wav",
+    "duration": 1.12
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.05, "value": "X" },
+    { "start": 0.05, "end": 0.32, "value": "B" },
+    { "start": 0.32, "end": 0.46, "value": "G" },
+    { "start": 0.46, "end": 0.60, "value": "E" },
+    { "start": 0.60, "end": 0.67, "value": "B" },
+    { "start": 0.67, "end": 0.81, "value": "C" },
+    { "start": 0.81, "end": 0.88, "value": "B" },
+    { "start": 0.88, "end": 1.12, "value": "X" }
+  ]
+}

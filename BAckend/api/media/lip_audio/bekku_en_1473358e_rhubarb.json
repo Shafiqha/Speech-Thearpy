@@ -1,0 +1,13 @@
+{
+  "metadata": {
+    "soundFile": "C:\\Users\\Shafiqha\\Desktop\\backup\\backup\\backend\\api\\media\\lip_audio\\bekku_en_1473358e.wav",
+    "duration": 0.88
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.09, "value": "X" },
+    { "start": 0.09, "end": 0.17, "value": "B" },
+    { "start": 0.17, "end": 0.31, "value": "C" },
+    { "start": 0.31, "end": 0.66, "value": "F" },
+    { "start": 0.66, "end": 0.88, "value": "X" }
+  ]
+}

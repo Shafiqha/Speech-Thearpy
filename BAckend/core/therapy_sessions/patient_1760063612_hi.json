@@ -1,0 +1,28 @@
+{
+  "patient_id": "patient_1760063612",
+  "language": "hi",
+  "start_time": "2025-10-10 08:03:32",
+  "current_sentence_index": 0,
+  "current_difficulty": "medium",
+  "total_attempts": 1,
+  "correct_attempts": 1,
+  "average_severity": 0.0,
+  "session_sentences": [
+    {
+      "sentence": "खाना",
+      "target": "खाना",
+      "spoken": "खाना",
+      "accuracy": "excellent",
+      "similarity": 1.0,
+      "severity": "Unknown",
+      "wab_aq_score": 50,
+      "detailed_errors": [],
+      "practice_suggestions": [
+        "Excellent pronunciation!",
+        "Try practicing with longer words",
+        "Keep up the good work!"
+      ],
+      "timestamp": "08:04:10"
+    }
+  ]
+}

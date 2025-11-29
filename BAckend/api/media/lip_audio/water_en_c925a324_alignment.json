@@ -1,0 +1,13 @@
+{
+  "metadata": {
+    "soundFile": "C:\\Users\\Shafiqha\\Desktop\\aphi\\aphi\\backup\\backend\\api\\media\\lip_audio\\water_en_c925a324.wav",
+    "duration": 0.86
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.09, "value": "X" },
+    { "start": 0.09, "end": 0.19, "value": "F" },
+    { "start": 0.19, "end": 0.26, "value": "E" },
+    { "start": 0.26, "end": 0.61, "value": "F" },
+    { "start": 0.61, "end": 0.86, "value": "X" }
+  ]
+}

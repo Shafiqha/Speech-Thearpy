@@ -1,0 +1,17 @@
+{
+  "metadata": {
+    "soundFile": "C:\\Users\\Shafiqha\\Desktop\\aphi\\aphi\\backup\\backend\\api\\media\\lip_audio\\Take water_en_373fcb01.wav",
+    "duration": 1.15
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.06, "value": "X" },
+    { "start": 0.06, "end": 0.13, "value": "B" },
+    { "start": 0.13, "end": 0.27, "value": "C" },
+    { "start": 0.27, "end": 0.41, "value": "B" },
+    { "start": 0.41, "end": 0.48, "value": "F" },
+    { "start": 0.48, "end": 0.55, "value": "E" },
+    { "start": 0.55, "end": 0.62, "value": "B" },
+    { "start": 0.62, "end": 0.90, "value": "E" },
+    { "start": 0.90, "end": 1.15, "value": "X" }
+  ]
+}

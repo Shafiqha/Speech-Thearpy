@@ -1,0 +1,13 @@
+{
+  "metadata": {
+    "soundFile": "C:\\Users\\Shafiqha\\Desktop\\backup\\backup\\backend\\api\\media\\lip_audio\\\u0906\u0932\u0942_en_12ac31d8.wav",
+    "duration": 0.81
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.10, "value": "X" },
+    { "start": 0.10, "end": 0.23, "value": "D" },
+    { "start": 0.23, "end": 0.30, "value": "B" },
+    { "start": 0.30, "end": 0.58, "value": "F" },
+    { "start": 0.58, "end": 0.81, "value": "X" }
+  ]
+}

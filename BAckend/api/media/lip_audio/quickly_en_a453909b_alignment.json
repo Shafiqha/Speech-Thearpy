@@ -1,0 +1,13 @@
+{
+  "metadata": {
+    "soundFile": "C:\\Users\\Shafiqha\\Desktop\\aphi\\aphi\\backup\\backend\\api\\media\\lip_audio\\quickly_en_a453909b.wav",
+    "duration": 0.93
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.06, "value": "X" },
+    { "start": 0.06, "end": 0.16, "value": "B" },
+    { "start": 0.16, "end": 0.23, "value": "F" },
+    { "start": 0.23, "end": 0.72, "value": "B" },
+    { "start": 0.72, "end": 0.93, "value": "X" }
+  ]
+}

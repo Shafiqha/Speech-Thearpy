@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "soundFile": "C:\\Users\\Shafiqha\\Desktop\\aphi\\backup\\backend\\api\\media\\lip_audio\\chota_en_607a59e9.wav",
+    "duration": 0.91
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.12, "value": "X" },
+    { "start": 0.12, "end": 0.22, "value": "B" },
+    { "start": 0.22, "end": 0.36, "value": "E" },
+    { "start": 0.36, "end": 0.50, "value": "B" },
+    { "start": 0.50, "end": 0.71, "value": "D" },
+    { "start": 0.71, "end": 0.91, "value": "X" }
+  ]
+}

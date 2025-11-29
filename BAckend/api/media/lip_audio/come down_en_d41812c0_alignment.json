@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "soundFile": "C:\\Users\\Shafiqha\\Desktop\\aphi\\aphi\\backup\\backend\\api\\media\\lip_audio\\come down_en_d41812c0.wav",
+    "duration": 1.10
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.09, "value": "X" },
+    { "start": 0.09, "end": 0.21, "value": "D" },
+    { "start": 0.21, "end": 0.26, "value": "C" },
+    { "start": 0.26, "end": 0.34, "value": "A" },
+    { "start": 0.34, "end": 0.39, "value": "B" },
+    { "start": 0.39, "end": 0.57, "value": "C" },
+    { "start": 0.57, "end": 0.71, "value": "E" },
+    { "start": 0.71, "end": 0.85, "value": "C" },
+    { "start": 0.85, "end": 0.92, "value": "B" },
+    { "start": 0.92, "end": 1.10, "value": "X" }
+  ]
+}

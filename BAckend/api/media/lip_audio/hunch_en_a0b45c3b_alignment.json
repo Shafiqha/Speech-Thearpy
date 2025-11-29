@@ -1,0 +1,16 @@
+{
+  "metadata": {
+    "soundFile": "C:\\Users\\Shafiqha\\Desktop\\aphi\\aphi\\backup\\backend\\api\\media\\lip_audio\\hunch_en_a0b45c3b.wav",
+    "duration": 0.98
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.02, "value": "X" },
+    { "start": 0.02, "end": 0.09, "value": "B" },
+    { "start": 0.09, "end": 0.15, "value": "A" },
+    { "start": 0.15, "end": 0.28, "value": "D" },
+    { "start": 0.28, "end": 0.34, "value": "C" },
+    { "start": 0.34, "end": 0.53, "value": "A" },
+    { "start": 0.53, "end": 0.80, "value": "B" },
+    { "start": 0.80, "end": 0.98, "value": "X" }
+  ]
+}

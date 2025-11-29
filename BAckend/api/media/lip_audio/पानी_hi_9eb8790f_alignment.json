@@ -1,0 +1,13 @@
+{
+  "metadata": {
+    "soundFile": "C:\\Users\\Shafiqha\\Desktop\\aphi\\aphi\\aphi\\backup\\BAckend\\api\\media\\lip_audio\\\u092a\u093e\u0928\u0940_hi_9eb8790f.wav",
+    "duration": 0.84
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.12, "value": "X" },
+    { "start": 0.12, "end": 0.30, "value": "D" },
+    { "start": 0.30, "end": 0.35, "value": "C" },
+    { "start": 0.35, "end": 0.67, "value": "B" },
+    { "start": 0.67, "end": 0.84, "value": "X" }
+  ]
+}

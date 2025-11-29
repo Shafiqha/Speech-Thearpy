@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "soundFile": "C:\\Users\\Shafiqha\\Desktop\\backup\\backend\\api\\media\\lip_audio\\Willow_en_556e5bf2.wav",
+    "duration": 0.81
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.09, "value": "X" },
+    { "start": 0.09, "end": 0.23, "value": "G" },
+    { "start": 0.23, "end": 0.37, "value": "B" },
+    { "start": 0.37, "end": 0.51, "value": "E" },
+    { "start": 0.51, "end": 0.58, "value": "F" },
+    { "start": 0.58, "end": 0.81, "value": "X" }
+  ]
+}

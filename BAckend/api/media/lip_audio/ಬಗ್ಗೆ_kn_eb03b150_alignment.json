@@ -1,0 +1,16 @@
+{
+  "metadata": {
+    "soundFile": "C:\\Users\\Shafiqha\\Desktop\\backup\\backend\\api\\media\\lip_audio\\\u0cac\u0c97\u0ccd\u0c97\u0cc6_kn_eb03b150.wav",
+    "duration": 1.03
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.01, "value": "X" },
+    { "start": 0.01, "end": 0.08, "value": "B" },
+    { "start": 0.08, "end": 0.15, "value": "A" },
+    { "start": 0.15, "end": 0.34, "value": "C" },
+    { "start": 0.34, "end": 0.41, "value": "B" },
+    { "start": 0.41, "end": 0.48, "value": "G" },
+    { "start": 0.48, "end": 0.83, "value": "B" },
+    { "start": 0.83, "end": 1.03, "value": "X" }
+  ]
+}
